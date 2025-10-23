@@ -9,25 +9,12 @@ eVTOL
 Archer
 Joby
 
-DeepSeek
-梁文锋
-
 大疆
 DJI
 
 特斯拉
 马斯克
 
-chatgpt
-openai
-sora
-
-ai
-!gai
-人工智能
-
 小马智行
 文远知行
 自动驾驶
-
-机器人
